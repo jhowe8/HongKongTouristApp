@@ -1,0 +1,232 @@
+{
+	"regions": [
+		{
+			"name": "Aberdeen",
+			"alternateName": "Aberdeen",
+			"zoomLevel": 14.5,
+			"pois": [
+				{
+					"name": "Aberdeen",
+					"latitude": 22.240492,
+					"longitude": 114.163056,
+					"description": "\t\tThis town is named in memory of George Hamilton-Gordon, 4th Earl of Aberdeen, former Prime Minister of the United Kingdom (1852-1855) and former Secretary of State for Foreign Affairs (1841-1846). \n\t\tStarting from the Ming Dynasty, \"Hong Kong\" became the original name for the presently-named Aberdeen village. In the early 19th century, foreigners who landed near Aberdeen Village mistook the name of the village \"Hong Kong\" for the whole island. When the foreigners eventually realized their mistake, the name \"Hong Kong\" was already commonly used to refer to the entire island.\n\t\t Hong Kong means \"fragrant harbour\", and it was Aberdeen where incense trees (Aquilaria sinensis) from the New Territories used to be brought for export to other cities in China."
+				},
+				{
+					"name": "Ovolo Southside Hotel",
+					"latitude": 22.24955247182367,
+					"longitude": 114.16902800450092,
+					"description": "\t\tGet a taxi from the airport to initially reach this location. Address is \nOvolo Southside\n64 Wong Chuk Hang Road, Southside, Hong Kong"
+				},
+				{
+					"name": "Mount Johnston Lighthouse Hike",
+					"latitude": 22.229280296384353,
+					"longitude": 114.16169297001018,
+					"description": "\t\tThis hill is named after Alexander Robert Johnston (14 June 1812 – 21 January 1888), a British colonial official who served twice as Acting Administrator of Hong Kong from 1841 to 1842.\n\t\t He was the first in charge of Hong Kong and initiated a land auction from Queen's Road to IFC in Wan Chai. Plenty in the U.K. government were upset about this because land sales were going to be a great source of revenue. But Johnston knew that Hong Kong needed initial investors or else the whole Hong Kong endeavor would die quickly.\n\t\t Johnston was Private Secretary to Lord Napier and was Deputy Superintendent of Trade under Captain Charles Elliot. He served on the steamship Nemisis.\n\t\t In 1883, Johnston and his wife travelled to the United States, where they visited the small town of Garvanza, California. They purchased over 2,000 acres of the Rancho San Rafael from Victor Beaudry (brother of businessman Prudent Beaudry) for agricultural and real estate development, and named it the San Rafael Ranch. They returned to England while their sons operated the ranch and then visited again in 1888. The ranch was used for cattle grazing and many buildings were constructed. Johnston died there on 21 January 1888. Johnston Lake in Pasadena is named after him."
+				},
+				{
+					"name": "Aberdeen Sightseeing Sampan",
+					"latitude": 22.246877369534968,
+					"longitude": 114.15951220330803,
+					"description": "No website available. Located at the end of Kwun Hoi Path near the Ap Lei Chau Bridge."
+				},
+				{
+					"name": "Aberdeen Promenade",
+					"latitude": 22.247370,
+					"longitude": 114.15428,
+					"description": "Aberdeen Promenade, located right next to Aberdeen Harbour on the Aberdeen town side, as well as the Ap Lei Chau Bridge and Aberdeen Channel Bridge, are famous places for tourists to take photographs of Aberdeen Harbour."
+				}
+			]
+		},
+		{
+			"name": "Stanley",
+			"alternateName": "Stanley",
+			"zoomLevel": 15.5,
+			"pois": [
+				{
+					"name": "Stanley",
+					"latitude": 22.21661338022767,
+					"longitude": 114.21101055622182,
+					"description": "Stanley was the original large population center on Hong Kong Island before the time of the British.\t\tThere are two possible origins of the name \"Chek Chue\" - the Cantonese name for the area.\n\t\t Legend has it that the notorious pirate Cheung Po Tsai was active in Stanley. That is why the district became known in Cantonese as Chak Chue (Chinese: 賊柱; lit. 'Bandit's Post'). There was once a Cheung Po Tsai Cave near the Tin Hau Temple west of Stanley, but the cave was filled in the early 1950s.\n\t\t The original Cantonese name of the village was believed to be based on a big tall cotton tree (Bombax malabaricum, Bombax ceiba 木棉樹) often covered with bright red blossoms at the time, hence red pillar (赤柱) in Hakka language.\n\t\t It was given an English name after Lord Stanley (subsequently Earl of Derby), British Colonial Secretary at the time of the cession of Hong Kong to the United Kingdom, and subsequently Prime Minister.\n\t\t After the annexation of Hong Kong in 1842, the British made Stanley the temporary administrative centre, before moving it to the newly founded Victoria City. Present-day Stanley Fort was where British and Canadian troops mounted a last stand during the Battle of Hong Kong. The survivors surrendered to Japanese forces in December 1941. The fort, which was the former British Army barracks in Stanley, is now occupied by the People's Liberation Army following the handover of Hong Kong to the People's Republic of China in 1997."
+				},
+				{
+					"name": "Stanley Beach",
+					"latitude": 22.219428021364667,
+					"longitude": 114.21434294578286,
+					"description": "Rent kayaks from Hiwindlover Water Sports Center at the southern end of the beach."
+				},
+				{
+					"name": "Murray House",
+					"latitude": 22.218136254411483,
+					"longitude": 114.20968951675634,
+					"description": "Murray House is a Victorian-era building in Stanley, Hong Kong. Built in the present-day business district of Central in 1846 as officers' quarters of the Murray Barracks, the building was moved to the south of Hong Kong Island during the 2000s.\n\t\tIn 1982, the historical landmark was dismantled to yield to the new Bank of China Tower. Over 3,000 building blocks were labelled and catalogued for future restoration. In 1990, the Housing Department proposed the resurrection of the building in Stanley. The building was restored in 2001 and reopened in 2002."
+				},
+				{
+					"name": "Blake's Pier",
+					"latitude": 22.21711199667739,
+					"longitude": 114.21033521115871,
+					"description": "The pier was named after Sir Henry Arthur Blake, the twelfth governor of Hong Kong.\n\t\t Blake was the Governor from 1898 to 1903. He was an amateur botanist and the flower native . It is the official flower of Hong Kong and can be found on the flag and on currency. \n\t\tThe New Territories were officialy incorporated April 16, 1899 and added 365 square miles of land - a 12 times increase in area. District of Kowloon City remained in possession of China as a small enclave for military purposes. This area became the famous Kowloon Walled City."
+				},
+				{
+					"name": "Stanley Market",
+					"latitude": 22.218152772222748,
+					"longitude": 114.2126103973716,
+					"description": "The street is a typical example of a traditional old open-air market in Hong Kong and has since become a major tourist attraction, well known for its bargains."
+				}
+			]
+		},
+		{
+			"name": "MidHongKongIsland",
+			"alternateName": "Mid Hong Kong Island",
+			"zoomLevel": 13.25,
+			"pois": [
+				{
+					"name": "Mid Hong Kong Island",
+					"latitude": 22.265061210334476,
+					"longitude": 114.18661069044917,
+					"description": ""
+				},
+				{
+					"name": "Happy Valley Racecourse",
+					"latitude": 22.27287047137539,
+					"longitude": 114.18007935228543,
+					"description": "Gates open at 5:15 p.m. and the first race normally starts at 7:15 p.m. \nAdmission: HK$10\n\n1. Entry to the racecourse is via Wong Nai Chung Road. Take the Happy Valley tram, which runs east-west along Hong Kong Island, to the end of the line and walk across the road to the track. 2. Catch a ride on the public railway system (the MTR) to Causeway Bay and follow the signs to the racecourse. Taxis from Central cost about $HK40."
+				},
+				{
+					"name": "Hong Kong Police Museum",
+					"latitude": 22.268037447649174,
+					"longitude": 114.16984180316429,
+					"description": "Open 9 AM - 4:30 PM"
+				},
+				{
+					"name": "Repulse Bay Beach",
+					"latitude": 22.236914890930873,
+					"longitude": 114.1963041894873,
+					"description": "Considered one of the best beaches in all of Hong Kong."
+				},
+				{
+					"name": "Jardine's Lookout",
+					"latitude": 22.266451872326922,
+					"longitude": 114.19831447497269,
+					"description": "Hiking trail. Directions: There’s two way, the first way is to take the bus rt.11 from central/admiralty to Jardines lookout, and alight at the stop named “Mount Butler Road”, walk towards the quarry (currently EOD) direction. You will find a trail and then u can reach Jardines Lookout. The second way is to take the bus rt.6 and alight at wong nai Ching reservoir park."
+				}
+			]
+		},
+		{
+			"name": "NorthHongKongIsland",
+			"alternateName": "North Hong Kong Island",
+			"zoomLevel": 13.25,
+			"pois": [
+				{
+					"name": "North Hong Kong Island",
+					"latitude": 22.28197671254318,
+					"longitude": 114.16396347562284,
+					"description": "\t\tBefore the British built Hong Kong, there were only a few thousand people on the island. Henry John Temple, Viscount Palmerston, the British foreign secretary in 1841 described Hong Kong as, \"A barren island with hardly a house upon it.\"\n\t\t Hong Kong had been a relatively quiet site of fishing, salt production, piracy, and illicit trade up until then; the excellent harbor had become an anchorage for British and American opium traders in the 1830s.\n\t\t The residents living in the Central and Western and Wanchai districts of Hong Kong island have the highest median household income of any area in Hong Kong."
+				},
+				{
+					"name": "Lung Fu Shan Morning Trail",
+					"latitude": 22.27977135454404,
+					"longitude": 114.13898679796439,
+					"description": ""
+				},
+				{
+					"name": "Flagstaff Museum of Tea",
+					"latitude": 22.278550833587673,
+					"longitude": 114.1625738898943,
+					"description": "\t\tThis museum's mission is to educate the public about China's tea-drinking culture and to preserve historic and modern tea ware, with about 600 items in its collection dating from about 770 BC to the present, shown on a rotating basis. In addition to viewing tea ware ranging from dainty porcelain teacups to earthen pots, rare Chinese ceramics, and seals from the Ming and Qing dynasties (1644–1911), visitors can also watch videos describing various brewing practices from different provinces and learn about the vast variety of teas and their medicinal benefits. Stop by the museum shop to purchase superbly crafted tea ware and Chinese teas. The museum has an idyllic spot in Hong Kong Park, in an 1846 Greek Revival-style building that housed the commander of the British forces until 1978."
+				},
+				{
+					"name": "Noonday Gun",
+					"latitude": 22.282772567684642,
+					"longitude": 114.18377816173569,
+					"description": "The Noonday Gun (Chinese: 午炮) is a former naval artillery piece mounted on a small enclosed site near the Causeway Bay Typhoon Shelter on Hong Kong Island, Hong Kong. Owned and operated by Jardine Matheson, the gun is fired every day at noon and has become a tourist attraction.The Noonday Gun is located on the waterfront of the area formerly known as East Point, present-day Causeway Bay. East Point was the first plot of land in Hong Kong to be sold by the colonial government by public auction in 1841, and was purchased by Jardine Matheson. Over the years, land reclamation has shifted the coastline northward, and the siting of the gun has changed accordingly. The name East Point is now disused.\n\nThe tradition originated over an incident in the 1860s. Jardines' main godowns and offices were located at East Point, and its private militia would fire a gun salute to welcome a Jardine tai-pan's arrival by sea. On one occasion, a senior British naval officer became annoyed by this practice because he was new to Hong Kong and did not know of such a tradition. This was because such a salute was normally reserved for government officials and senior officers of the armed services. As a result, Jardines was ordered, as a penalty, to fire a gun every day at noon, in perpetuity.\n\nIn 1941, during the Japanese occupation of Hong Kong, the Japanese Imperial Army dismantled the gun and it was lost. After British forces regained Hong Kong in 1945, the Royal Navy provided Jardines with a new six-pound gun with which to continue the tradition of the noonday gun. On 1 July 1947, the Noonday gun was back in operation. Following complaints that the gun was too loud, in 1961 the marine police replaced the six-pound gun with a Hotchkiss three-pounder that saw action in the Battle of Jutland during the First World War."
+				},
+				{
+					"name": "Hong Kong Maritime Museum",
+					"latitude": 22.28705599133761,
+					"longitude": 114.16226673803132,
+					"description": "Address: Central Pier No. 8, Hong Kong\nHours\nMonday to Friday: 09:30 - 17:30\nSaturday, Sunday and Public Holidays: 10:00-19:00"
+				},
+				{
+					"name": "Possession Point",
+					"latitude": 22.28622485182308,
+					"longitude":  114.1486196974964,
+					"description": "Possession Point (Chinese: 水坑口) is a former point of land on the northwestern coast of Hong Kong Island in Hong Kong, before land reclamation moved the location further inland.\n\nThe area is where Commodore Gordon Bremer, commander-in-chief of British forces in China, took formal possession of Hong Kong on 26 January 1841, and this date is considered as the founding of Hong Kong.\n\nCaptain Edward Belcher, who surveyed the island in 1841, wrote: \"We landed on Monday, the 25th, 1841, at fifteen minutes past eight A. M., and being the bona fide first possessors, Her Majesty's health was drank with three cheers on Possession Mount.\" Accompanied by officers of the naval squadron the next day, Bremer took formal possession, under a feu de joie from the Royal Marines and a royal salute from the men-of-war ships. The hoisting of the Union Jack was possibly done by either William Dowell, who was a midshipman during the ceremony, or Mohammed Arab, who served in either the Bengal Volunteers or 37th Madras Native Infantry.\n\nThe area, which came to be known as Possession Point, was kept an open space, and used for recreation by the local Chinese, who called it Tai Tat Tei (大笪地). It was developed in the 1980s and formed into a hotel and commercial complex, which is also the site of the Hong Kong–Macau Ferry Terminal.\n\nThe point has now disappeared from the coastline, but Possession Street and the sudden turn of Queen's Road West reveals its original location. In maps of the 1980s and before, Hollywood Road Park is marked as Possession Point. This marks the original site which, owing to land reclamation, is no longer located on the coast.\n\nThe Chinese name, 水坑口, means the mouth of water trench, reflecting the mouth of a stream that flowed down from Victoria Peak."
+				}
+			]
+		},
+		{
+			"name": "Kowloon",
+			"zoomLevel": 14.0,
+			"alternateName": "Kowloon",
+			"pois": [
+				{
+					"name": "Kowloon",
+					"latitude": 22.301526166775105,
+					"longitude": 114.17526532158244,
+					"description": "Kowloon was given to the British in 1860 and returned to China in 1997."
+				},
+				{
+					"name": "Ting Lung Heen",
+					"latitude": 22.304219387714447,
+					"longitude": 114.16097422254977,
+					"description": "Reservations made for 12:00 Friday. This restaurant is located in the Ritz-Calton. Get off at the Kowloon subway stop.\n\nLocated nearby is the Sky100 Observation Deck. Hours are 10:00 - 20:30.\nTickets are available at the sky100 Hong Kong Observation Deck Ticket Centre on 1/F."
+				},
+				{
+					"name": "Afternoon Tea Boat Ride",
+					"latitude": 22.293198816268212,
+					"longitude": 114.17086994114634,
+					"description": "Reservation made for 15:00 - 16:15 Friday. Boat leaves from Aqualuna Tsim Sha Tsui Pier 1."
+				},
+				{
+					"name": "Avenue of Stars",
+					"latitude": 22.29325912046801,
+					"longitude": 114.17473456896514,
+					"description": "The Avenue of Stars (Chinese: 星光大道), modelled on the Hollywood Walk of Fame, is an avenue located along the Victoria Harbour waterfront in Tsim Sha Tsui, Hong Kong. It honours celebrities of the Hong Kong film industry.Entering from Salisbury Garden, a 4.5-metre-tall replica of the statuette given to winners at the Hong Kong Film Awards greets visitors. Along the 440-metre promenade, the story of Hong Kong's one hundred years of cinematic history is told through inscriptions printed on nine red pillars. Set into the promenade are plaques honouring the celebrities. Some plaques contain hand prints and autographs of the stars set in cement, but most of the plaques only contain celebrities' names as they are now deceased. A 2.5-metre bronze statue of Bruce Lee was erected along the Avenue of Stars in 2005. In 2014, a bronze statue of Anita Mui was erected along the Avenue of Stars.\n\nThe promenade commands a panoramic view across Victoria Harbour. At night, it is a popular viewing place for the Symphony of Lights display."
+				},
+				{
+					"name": "Symphony of Lights",
+					"latitude": 22.29325912046801,
+					"longitude": 114.17473456896514,
+					"description": "Every night at 8:00 PM."
+				}
+			]
+		},
+		{
+			"name": "LantauIsland",
+			"zoomLevel": 11.25,
+			"alternateName": "Lantau Island",
+			"pois": [
+				{
+					"name": "Lantau Island",
+					"latitude": 22.267745390934195,
+					"longitude": 113.94968958490463,
+					"description": "Hong Kong’s largest outlying island includes Buddhist architecture, a sandy beach & shopping mall. It is almost twice the size of Hong Kong Island.\n\t\tIn 1276, the Southern Song Dynasty court fled to Guangdong by boat to escape Mongol invaders, leaving Emperor Gong of Song behind. The resistance centred on two young princes, Emperor Gong's brothers. The older boy Zhao Shi, was declared emperor at the age of nine, ascending the throne as Emperor Duanzong of Song. In 1277, the imperial court sought refuge first in Silvermine Bay (Mui Wo) on Lantau Island (then known as Gangzhou (碙州), and later in today's Kowloon City. The older brother became ill, died, and was succeeded by the younger brother Zhao Bing (Emperor Bing of Song) at the age of seven. He died in 1279, and the Song Dynasty ended. These emperors are also believed to have held court in the Tung Chung valley, which takes its name from a local hero who gave up his life for the emperor.\n\nLantau Island and Tamão, Tuen Mun were among the first European trading settlements in the Pearl River area, established by Portuguese traders in the 1510s. The Portuguese abandoned these settlements in around 1517, following their defeat by Chinese troops in the Battle of Tunmen and Battle of Sincouwaan.[6] Lantau was visited in 1607 by one of the early Dutch East India Company (VOC) fleet commanders Cornelis Matelieff de Jonge who describes his visit to the local \"mandarin\". A drawing of this officials' compound was published in the 1648 edition of Matelieff's travelogue.[7] Much later the island became an important trading post for the British, long before they became interested in Hong Kong Island.\nEntrance of Tung Chung Fort.\n\nThere were nine settlements on the island in the early 16th century: Kai Kung Tau (鷄公頭), Shek Pik, Tai O, Sha Lo Wan, Tung Sai Chung (東西涌, now known as Tung Chung), Tai Ho Shan (大蠔山, now known as Lantau Peak), Mui Wo, Lo Pui O (now known as Pui O) and Tong Fuk.[3] The island was evacuated for about a decade, following the orders imposed by the Great Clearance, and people were allowed to return to settle on the island in 1669. Five villages were subsequently resettled: Tai O, Tung Sai Chung, Lo Pui O, Shek Pik and Mui Wo.\n\nSalt was illegally produced on Lantau Island. This was discovered by the Chinese rulers during the 16th century, and the local warlord put many islanders to death as a result.\n\nLantau was once a base for pirates and smugglers, and was one of the haunts of Cheung Po Tsai in the 19th century. Galena, a mineral consisting of lead and silver,[8] was mined at Mui Wo until the 19th century.\n\nLantau Island was a major site of resistance against the Japanese during the second world war. The resistance movement made use of the island's wooded areas and deep valleys in order to organise ambushes and move supplies. The resistance movement persevered through the war until the end of the Japanese occupation in 1945."
+				},
+				{
+					"name": "Ngong Ping 360 Cable Car",
+					"latitude": 22.290254033395453,
+					"longitude": 113.93866971366285,
+					"description": "Take subway to Tung Chung. Ngong Ping Cable Car and Ngong Ping Village open from 10am to 6pm."
+				},
+				{
+					"name": "Tian Tan Buddha",
+					"latitude": 22.25428412532729,
+					"longitude": 113.90503255392036,
+					"description": "Po Lin Monastery and the Buddha are open to the public between 10:00 and 17:30. Access to the outside of the Buddha is free of charge, but there is an admission fee to go inside the Buddha.\n\n\t\tThe Big Buddha was constructed beginning in 1990, and was finished on 29 December 1993, which the Chinese reckon as the day of the Buddha's enlightenment."
+				},
+				{
+					"name": "Ngong Ping Village",
+					"latitude": 22.256329761015667,
+					"longitude": 113.90189361886834,
+					"description": "Ngong Ping Village is located in the western part of Lantau Island. It was built on the top of the Ngong Ping Plateau, mainly for accommodating the influx of tourists flocking in huge numbers to see Tian Tan Buddha and to experience the land, sky, and sea together on an exciting Ngong Ping Village cable car ride. It is an artificially designed village with Chinese style architectural elements complete with tea houses, souvenir shops as well as the food outlets which serve both authentic Asian and Western delicacies.\n\nAll the modern facilities are well accommodated by the village, making it the central point for the many tourist attractions and highlights of the area and it also serves as a major transportation hub."
+				},
+				{
+					"name": "Tai O",
+					"latitude": 22.2544,
+					"longitude": 113.8642,
+					"description": "Take the ferry back to Tung Chung by 18:00, then return by subway. https://www.fortuneferry.com.hk/en/route-and-fare\n\n\t\tIn early 16th century, Tai O was once occupied shortly by Portuguese during the Battle of Tamão, the remains is known as Fan Kwai Tong (番鬼塘, \"Foreign devil pond\") today.\n\nTai O is one of five villages of Lantau that were resettled when the coastal restriction of the Great Clearance was lifted in 1669. The other villages are Tung Sai Chung, Lo Pui O, Shek Pik and Mui Wo."
+				}
+			]
+		}
+	]
+}
