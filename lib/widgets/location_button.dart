@@ -17,8 +17,8 @@ class LocationButton extends StatelessWidget {
     return Container(
       decoration: BoxDecoration(
         border: Border.all(
-          color: Colors.black,  // border color
-          width: 1.0,            // border width
+          color: Colors.black,
+          width: 1.0,
         ),
       ),
       child: Material(

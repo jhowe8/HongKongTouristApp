@@ -28,7 +28,7 @@ class LanguageSelectionPage extends StatelessWidget {
             children: <Widget>[
               ElevatedButton(
                 child: Row(
-                  mainAxisSize: MainAxisSize.min,  // set it to min
+                  mainAxisSize: MainAxisSize.min,
                   children: [
                     Flag.fromCode(FlagsCode.GB, height: 50, width: 50),
                     SizedBox(width: 10),
@@ -58,7 +58,7 @@ class LanguageSelectionPage extends StatelessWidget {
               SizedBox(height: 100),
               ElevatedButton(
                 child: Row(
-                  mainAxisSize: MainAxisSize.min,  // set it to min
+                  mainAxisSize: MainAxisSize.min,
                   children: [
                     Flag.fromCode(FlagsCode.CN, height: 50, width: 50),
                     SizedBox(width: 10),

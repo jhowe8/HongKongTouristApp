@@ -57,8 +57,8 @@ class _RegionPageState extends State<RegionPage> {
                   child: Container(
                     decoration: BoxDecoration(
                       border: Border.all(
-                        color: Colors.black,  // border color
-                        width: 1.0,            // border width
+                        color: Colors.black,
+                        width: 1.0,
                       ),
                     ),
                     child: Material(
@@ -74,7 +74,7 @@ class _RegionPageState extends State<RegionPage> {
                             child: Row(
                                 children: [
                                   i != 0 ? Icon(
-                                    Icons.place, // This is an example, you can choose any icon
+                                    Icons.place,
                                     color: Colors.black,
                                   ) : Container(),
                                   Padding(
@@ -129,7 +129,7 @@ class _RegionPageState extends State<RegionPage> {
             alignment: Alignment.center,
             children: [
               Icon(
-                Icons.location_on_rounded,
+                Icons.location_pin,
                 color: Colors.blueAccent,
                 size: 50,
               ),

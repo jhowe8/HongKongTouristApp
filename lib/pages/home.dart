@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
                                 MaterialPageRoute(builder: (context) => RegionPage(pois: region.pois, pageTitle: region.alternateName, zoomLevel: region.zoomLevel))
                             );
                           },
-                          imagePath: 'assets/' + region.name + '.png', // assuming that the image name matches with the region name
+                          imagePath: 'assets/' + region.name + '.png',
                           buttonText: region.alternateName,
                         );
                       }).toList(),
