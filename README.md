@@ -6,7 +6,7 @@ First choose your language - English or Chinese
 
 ![image](https://github.com/jhowe8/HongKongTouristApp/assets/26032200/86e09ebf-1ffd-4cd3-ad14-6fee7c9b43a6)
 
-The next page of options corresponds to each day spent in Hong Kong. Pick a day to see all the events planned and mapped out.
+The next page of options corresponds to each day spent in Hong Kong. Pick a day to see all the events planned and mapped out.  
 ![image](https://github.com/jhowe8/HongKongTouristApp/assets/26032200/9f342450-a48c-4449-a652-77ef68cf94c3)
 
 Arrive at the day's itinerary the map and info page.
