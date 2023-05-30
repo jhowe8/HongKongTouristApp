@@ -13,5 +13,5 @@ Arrive at the day's itinerary the map and info page.
 
 ![image](https://github.com/jhowe8/HongKongTouristApp/assets/26032200/f8cb62e5-0642-4562-9793-8c4559e6b4bc)
 
-Selecting a button above the map produces text below the map that may be used as a description and/or for directions and information such as hours and admission price.
-Map: Selecting a marker on the map opens that locating in Google Maps.
+Selecting a button above the map produces text below the map that may be used as a description and/or for directions and information such as hours and admission price.  
+Map: Selecting a marker on the map opens that location in Google Maps.
