@@ -66,6 +66,13 @@ class _RegionPageState extends State<RegionPage> {
                       borderRadius: BorderRadius.circular(1.0),
                       color: Colors.blue,
                       child: Container(
+                        decoration: i == 0 ? BoxDecoration(
+                          image: DecorationImage(
+                            image: AssetImage('assets/${widget.pois[i].name.replaceAll(' ', '')}.png'),
+                            fit: BoxFit.cover,
+                            colorFilter: ColorFilter.mode(Colors.black.withOpacity(1), BlendMode.dstATop),
+                          ),
+                        ) : null,
                         width: screenWidth,
                         child: InkWell(
                             onTap: () => setState(() {
@@ -79,13 +86,26 @@ class _RegionPageState extends State<RegionPage> {
                                   ) : Container(),
                                   Padding(
                                     padding: EdgeInsets.all(8.0),
-                                    child: Text(
-                                      title,
-                                      textAlign: i != 0 ? TextAlign.start : TextAlign.center,
-                                      style: TextStyle(
-                                        color: Colors.white,
-                                        fontSize: i != 0 ? 16.0 : 24.0,
-                                      ),
+                                    child: Stack(
+                                        children: [
+                                          Text(
+                                            title,
+                                            style: TextStyle(
+                                              fontSize: i != 0 ? 16 : 24.0,
+                                              foreground: Paint()
+                                                ..style = PaintingStyle.stroke
+                                                ..strokeWidth = i == 0 ? 3 : 0
+                                                ..color = Colors.black,
+                                            ),
+                                          ),
+                                          Text(
+                                            title,
+                                            style: TextStyle(
+                                              fontSize: i != 0 ? 16 : 24.0,
+                                              color: Colors.white,
+                                            ),
+                                          ),
+                                        ]
                                     ),
                                   ),
                                 ]
@@ -103,9 +123,26 @@ class _RegionPageState extends State<RegionPage> {
               if (selectedPoi != null)
                 Padding(
                     padding: EdgeInsets.all(8.0),
-                    child: Text(
-                        '${selectedPoi?.description}',
-                        style: TextStyle(color: Colors.white)
+                    child: Stack(
+                      children: [
+                        Text(
+                          '${selectedPoi?.description}',
+                          style: TextStyle(
+                            fontSize: 16,
+                            foreground: Paint()
+                              ..style = PaintingStyle.stroke
+                              ..strokeWidth = 1.5
+                              ..color = Colors.black,
+                          ),
+                        ),
+                        Text(
+                          '${selectedPoi?.description}',
+                          style: TextStyle(
+                            fontSize: 16,
+                            color: Colors.white,
+                          ),
+                        ),
+                      ]
                     )
                 ),
             ]

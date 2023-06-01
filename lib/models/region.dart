@@ -6,8 +6,9 @@ class Region {
   final String alternateName;
   final List<POI> pois;
   final double zoomLevel;
+  final int dayNumber;
 
-  Region({required this.name, required this.alternateName, required this.pois, required this.zoomLevel});
+  Region({required this.name, required this.alternateName, required this.pois, required this.zoomLevel, required this.dayNumber});
 
   factory Region.fromJson(Map<String, dynamic> json) {
     var poisJson = json['pois'] as List;
@@ -18,6 +19,7 @@ class Region {
       alternateName: json['alternateName'],
       zoomLevel: json['zoomLevel'],
       pois: poisList,
+      dayNumber: json['dayNumber']
     );
   }
 }

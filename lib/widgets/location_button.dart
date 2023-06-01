@@ -5,8 +5,9 @@ class LocationButton extends StatelessWidget {
   final VoidCallback onPressed;
   final String imagePath;
   final String buttonText;
+  final int dayNumber;
 
-  LocationButton({required this.onPressed, required this.imagePath, required this.buttonText});
+  LocationButton({required this.onPressed, required this.imagePath, required this.buttonText, required this.dayNumber});
 
   @override
   Widget build(BuildContext context) {
@@ -18,7 +19,7 @@ class LocationButton extends StatelessWidget {
       decoration: BoxDecoration(
         border: Border.all(
           color: Colors.black,
-          width: 1.0,
+          width: 1.5,
         ),
       ),
       child: Material(
@@ -45,20 +46,60 @@ class LocationButton extends StatelessWidget {
                       end: Alignment.bottomCenter,
                       colors: [
                         Colors.transparent,
-                        Colors.black.withOpacity(0.45),
+                        Colors.black.withOpacity(0.5),
                         Colors.transparent,
                       ],
                     ),
                   ),
                 ),
                 Center(
-                  child: Text(
-                    buttonText,
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 20,
-                    ),
-                  ),
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Stack(
+                          children: [
+                            Text(
+                              'Day ${dayNumber}',
+                              style: TextStyle(
+                                fontSize: 12,
+                                foreground: Paint()
+                                  ..style = PaintingStyle.stroke
+                                  ..strokeWidth = 2
+                                  ..color = Colors.black,
+                              ),
+                            ),
+                            Text(
+                              'Day ${dayNumber}',
+                              style: TextStyle(
+                                fontSize: 12,
+                                color: Colors.white,
+                              ),
+                            ),
+                          ]
+                      ),
+                      Stack(
+                        children: [
+                          Text(
+                            buttonText,
+                            style: TextStyle(
+                              fontSize: 24,
+                              foreground: Paint()
+                                ..style = PaintingStyle.stroke
+                                ..strokeWidth = 2
+                                ..color = Colors.black,
+                            ),
+                          ),
+                          Text(
+                            buttonText,
+                            style: TextStyle(
+                              fontSize: 24,
+                              color: Colors.white,
+                            ),
+                          ),
+                        ]
+                      )
+                    ]
+                  )
                 ),
               ],
             ),

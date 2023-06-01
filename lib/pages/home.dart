@@ -60,6 +60,7 @@ class _HomePageState extends State<HomePage> {
                           },
                           imagePath: 'assets/' + region.name + '.png',
                           buttonText: region.alternateName,
+                          dayNumber: region.dayNumber
                         );
                       }).toList(),
                     ),

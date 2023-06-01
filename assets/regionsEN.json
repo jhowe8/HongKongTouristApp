@@ -4,6 +4,7 @@
 			"name": "Aberdeen",
 			"alternateName": "Aberdeen",
 			"zoomLevel": 14.5,
+			"dayNumber": 1,
 			"pois": [
 				{
 					"name": "Aberdeen",
@@ -41,6 +42,7 @@
 			"name": "Stanley",
 			"alternateName": "Stanley",
 			"zoomLevel": 15.5,
+			"dayNumber": 2,
 			"pois": [
 				{
 					"name": "Stanley",
@@ -75,15 +77,22 @@
 			]
 		},
 		{
-			"name": "MidHongKongIsland",
-			"alternateName": "Mid Hong Kong Island",
+			"name": "HappyValley",
+			"alternateName": "Happy Valley",
 			"zoomLevel": 13.25,
+			"dayNumber": 3,
 			"pois": [
 				{
-					"name": "Mid Hong Kong Island",
-					"latitude": 22.265061210334476,
-					"longitude": 114.18661069044917,
-					"description": ""
+					"name": "Happy Valley",
+					"latitude": 22.268601509973593,
+					"longitude": 114.1851977189444,
+					"description": "The area now known as Happy Valley was formerly known as Wong Nai Chung Valley, sometimes known as Wong Nai Chung Kuk (黃泥涌谷) or Wong Nai Chung Valley because of the Wong Nai Chung (黃泥涌, lit. yellow mud stream) that leads into the area, where the Wong Nai Chung referred to is a mud-filled river collecting waters from the Wong Nai Chung Gap and surrounding area. The river nourished the rice paddies until the construction of Happy Valley Racecourse in 1846."
+				},
+				{
+					"name": "Tai Tam Country Park",
+					"latitude": 22.254361420269152,
+					"longitude": 114.20732171356269,
+					"description": "The Tai Tam Country Park is a large tract of 1,315 hectares of protected land in the south and eastern sections Hong Kong Island. Originally designated in 1977, an additional extension to the park which includes the Quarry Bay area was added in 1979.\n\nThe country park includes popular hiking trail sections of both the Wilson Trail and Hong Kong Trail as well as the Jardine's Lookout hike and viewpoint. There is also a patchwork of family trails and hikes throughout the country park up to Quarry Bay to the east and north and through the main valley to the south and southeast. Here you'll find a series of dams constructed between 1888 and 1917 to form fresh water reservoirs to help support the growing population of Hong Kong in the early 20th century.\n\nThe Tai Tam Reservoirs can be visited by way of an informal Tai Tam Waterworks Heritage Trail which also takes in 22 various stops to see Declared Monuments (e.g. dams, valve houses, pumping stations, workmen quarters, masonry bridges and aqueduct) as you leisurely hike down the valley. The area is very scenic, includes plenty of designated BBQ spots, occasional public toilets and many signs pointing the way onward and describing the various monument buildings and structures that you are seeing.\n\nOverall, The Tai Tam Country Park is a nice opportunity to spend some time in nearby rural and countryside grounds. A lot of people use the park on weekends and public holidays but it is never crowded compared to the streets of the city. It is a good place to spend a few hours or half a day recharging your battery if you don't want to travel far.\n\nTo visit the Tai Tam Country Park, you can take buses (route 63) from North Point and (route 6 or 66) from Exchanges Square in Central in the direction of Stanley. Exit at the Wong Chai Nung Reservoir Park at Wong Chai Nung Gap Road. Then walk 1.5 kilometres along well sign posted Tai Tam Reservoir Road to the country park. At the end of the Heritage Trail, you will pop out along Tai Tam Road where you will find bus stops on both sides of the road. Buses and smaller light green mini buses frequently call on these bus stops before going onward to Stanley to the southwest or to the Chai Wan MTR Station in the opposite direction. From these places, you can easily make way back home or to your hotel."
 				},
 				{
 					"name": "Happy Valley Racecourse",
@@ -115,6 +124,7 @@
 			"name": "NorthHongKongIsland",
 			"alternateName": "North Hong Kong Island",
 			"zoomLevel": 13.25,
+			"dayNumber": 4,
 			"pois": [
 				{
 					"name": "North Hong Kong Island",
@@ -158,6 +168,7 @@
 			"name": "Kowloon",
 			"zoomLevel": 14.0,
 			"alternateName": "Kowloon",
+			"dayNumber": 5,
 			"pois": [
 				{
 					"name": "Kowloon",
@@ -195,6 +206,7 @@
 			"name": "LantauIsland",
 			"zoomLevel": 11.25,
 			"alternateName": "Lantau Island",
+			"dayNumber": 6,
 			"pois": [
 				{
 					"name": "Lantau Island",
