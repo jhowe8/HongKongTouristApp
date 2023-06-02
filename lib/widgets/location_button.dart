@@ -5,7 +5,7 @@ class LocationButton extends StatelessWidget {
   final VoidCallback onPressed;
   final String imagePath;
   final String buttonText;
-  final int dayNumber;
+  final String dayNumber;
 
   LocationButton({required this.onPressed, required this.imagePath, required this.buttonText, required this.dayNumber});
 
@@ -59,7 +59,7 @@ class LocationButton extends StatelessWidget {
                       Stack(
                           children: [
                             Text(
-                              'Day ${dayNumber}',
+                              dayNumber,
                               style: TextStyle(
                                 fontSize: 12,
                                 foreground: Paint()
@@ -69,7 +69,7 @@ class LocationButton extends StatelessWidget {
                               ),
                             ),
                             Text(
-                              'Day ${dayNumber}',
+                              dayNumber,
                               style: TextStyle(
                                 fontSize: 12,
                                 color: Colors.white,

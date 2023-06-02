@@ -6,7 +6,7 @@ class Region {
   final String alternateName;
   final List<POI> pois;
   final double zoomLevel;
-  final int dayNumber;
+  final String dayNumber;
 
   Region({required this.name, required this.alternateName, required this.pois, required this.zoomLevel, required this.dayNumber});
 

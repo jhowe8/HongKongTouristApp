@@ -4,7 +4,7 @@
 			"name": "Aberdeen",
 			"alternateName": "Aberdeen",
 			"zoomLevel": 14.5,
-			"dayNumber": 1,
+			"dayNumber": "Day 1",
 			"pois": [
 				{
 					"name": "Aberdeen",
@@ -42,7 +42,7 @@
 			"name": "Stanley",
 			"alternateName": "Stanley",
 			"zoomLevel": 15.5,
-			"dayNumber": 2,
+			"dayNumber": "Day 2",
 			"pois": [
 				{
 					"name": "Stanley",
@@ -80,7 +80,7 @@
 			"name": "HappyValley",
 			"alternateName": "Happy Valley",
 			"zoomLevel": 13.25,
-			"dayNumber": 3,
+			"dayNumber": "Day 3",
 			"pois": [
 				{
 					"name": "Happy Valley",
@@ -124,7 +124,7 @@
 			"name": "NorthHongKongIsland",
 			"alternateName": "North Hong Kong Island",
 			"zoomLevel": 13.25,
-			"dayNumber": 4,
+			"dayNumber": "Day 4",
 			"pois": [
 				{
 					"name": "North Hong Kong Island",
@@ -168,7 +168,7 @@
 			"name": "Kowloon",
 			"zoomLevel": 14.0,
 			"alternateName": "Kowloon",
-			"dayNumber": 5,
+			"dayNumber": "Day 5",
 			"pois": [
 				{
 					"name": "Kowloon",
@@ -206,7 +206,7 @@
 			"name": "LantauIsland",
 			"zoomLevel": 11.25,
 			"alternateName": "Lantau Island",
-			"dayNumber": 6,
+			"dayNumber": "Day 6",
 			"pois": [
 				{
 					"name": "Lantau Island",
